@@ -1,0 +1,33 @@
+[
+  {
+    "name": "React-Portfolio",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "Reactportfolio",
+    "category": "mern",
+    "links": {
+      "view": "https://rohitofficialportfolio.netlify.app/"
+    }
+  },
+
+  {
+    "name": "Event-Management",
+    "desc": "Full-Stack project for managing events.",
+    "image": "Eventmgt",
+    "category": "Basic Web",
+    "links": {
+      "view": " https://eventmgtsystem.netlify.app/"
+  }
+},
+
+{
+  "name": "TextAnalizer",
+  "desc": "React project for managing Text.",
+  "image": "TextAnalizer",
+  "category": "React",
+  "links": {
+    "view": " https://textanalizer-react.netlify.app/"
+}
+}
+
+  
+]
